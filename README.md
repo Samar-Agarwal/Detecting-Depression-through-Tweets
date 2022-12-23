@@ -1,2 +1,2 @@
 # Detecting-Depression-through-Tweets
-# By Samr Agarwal
+# By Samar Agarwal
